@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.header {
+    background-image: url(горы-швейцарии-в-мае-красивой-весеннее-время-великолепные-экскурсии-и-161693834.jpg);
+    background-size: cover;
+    height: 150vh;
+}
+.nav-item {
+    color: rgb(12, 12, 12);
+    text-decoration: none;
+
+    margin-right: 86px;
+
+    font-size: 38px;
+}
+.nav-item:hover {
+ color: #bc1717;
+}
+.nav-item:last-child {
+    margin-right: 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    padding-top: 34px;
+}
+.title {
+    color: rgb(14, 13, 13);
+    font-size: 80px;
+    width: 1000px;
+    font-weight: 900px;
+
+    text-align: center;
+
+    margin-right: auto;
+    margin-left: auto;
+
+    margin-top: 80px;
+}
+.subtitle {
+    color: rgb(11, 10, 10);
+    font-size: 56px;
+    font-weight: 900;
+    text-align: center;
+    line-height: 44px;
+
+    margin-right: auto;
+    margin-left: auto;
+
+    width: 514px;
+
+    margin-top: 50px;
+}
+.input {
+    width: 447px;
+    height: 67px;
+    font-size: 24px;
+
+    outline: none;
+    padding-left: 15px;
+
+    border: 4px #8D8D8D; solid;
+    border-radius: 20px;
+}
+
+.forma {
+    text-align: center;
+    margin-top: 240px;
+}
+.btn {
+    background-color: #5B89CE;
+    padding: 15px 18px;
+    color: #fff;
+    text-decoration: none;
+    font-size:24px ;
+    font-weight: 700;
+
+    border: 2px #476443 solid;
+    border-radius: 25px;
+    width: 261px;
+}
+.btn:hover {
+    background-color: #041530;
+}
+.button {
+    text-align: center;
+    margin-top: 25px;
+}
